@@ -19,7 +19,7 @@ What I have achived so far:
 # Project Pictures
 <p>
 
-You can see login screen, admin panel and employee panel.
+
 
 <a href="https://github.com/uguryesiloglu/3D-Openworld-FPS/blob/master/gamePng/1.png" target="_blank">
 <img src="https://github.com/uguryesiloglu/3D-Openworld-FPS/blob/master/gamePng/1.png" width="200" style="max-width:100%;"></a>
